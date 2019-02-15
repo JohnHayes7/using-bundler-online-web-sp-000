@@ -1,5 +1,5 @@
-Hashie
-Sinatra
-Octokit
-Pry
-AwesomePrint
+gem "hashie"
+gem "sinatra"
+gem "Octokit"
+gem "Pry"
+gem "AwesomePrint'
