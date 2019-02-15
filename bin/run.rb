@@ -1,5 +1,5 @@
-gem "hashie"
-gem "sinatra"
-gem "Octokit"
-gem "Pry"
-gem "AwesomePrint'
+Hashie
+Sinatra
+Octokit
+Pry
+AwesomePrint
